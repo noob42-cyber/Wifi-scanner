@@ -50,4 +50,15 @@ Npcap is a specialized kernel-level packet capture and injection architecture de
 ```bash
 git clone https://github.com/Jigyasa0601/wifi-network-scanner.git
 cd wifi-network-scanner
+```
+**Step 2: Run the program**
+```bash
+python arp-scan.py
+```
+
+## Responsible Use
+
+Use this scanner only on networks you own or have explicit permission to test 
+
+Network Scanning without authorization may violate network policies or applicable laws
 
